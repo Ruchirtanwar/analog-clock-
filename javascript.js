@@ -1,4 +1,4 @@
-const resetButton = document.getElementById('resetButton');
+const resetButton = document.getElementById('resetbutton');
 
 function updateClock(){
     d= new Date();
